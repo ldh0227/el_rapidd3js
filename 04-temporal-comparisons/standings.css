@@ -1,1 +1,32 @@
 
+.line-graph {
+  fill: none;
+  stroke: darkblue;
+  stroke-width: 2px;
+  shape-rendering: smooth;
+}
+
+.axis path, .axis line {
+  fill: none;
+  stroke: #eee;
+  shape-rendering: cripsEdges;
+}
+
+.axis text {
+  font-size: 11px;
+}
+
+.bar {
+  fill: rgba(0,0,192,0.5);
+}
+
+.legend rect {
+  fill: white;
+  stroke: black;
+  opacity: 0.8;
+}
+
+.tooltip {
+  color: white;
+  padding: 3px;
+}

@@ -1,3 +1,7 @@
+# el_rapidd3js
+This repo is fork of below eLearning Starter Kit.
+I study and my code modify is applied.
+
 # rapidd3js
 Source code for Rapid D3.js Course
 
@@ -8,4 +12,3 @@ The author for the d3-cloud has changed the HTML example page to a JavaScript pa
 Reverting to Tag 1.1.2 has the HTML example page as shown in the lesson.
 
 * https://github.com/jasondavies/d3-cloud/tree/v1.1.2
-
